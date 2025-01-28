@@ -37,3 +37,9 @@
 [<img src="/1_Autoassociative_Memory/Output/pic_4_4.png" width="150"/>](/1_Autoassociative_Memory/Output/pic_4_4.png)
 
 ---
+## 2_MNIST  *[`link`](/2_MNIST/ "2_MNIST")*
+
+### MNIST with DNN
+- Some examples of implementing **Deep Neural Networks** on the **MNIST** dataset.
+
+---
