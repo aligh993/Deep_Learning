@@ -49,3 +49,9 @@
 - Some examples of implementing **Deep Neural Networks** on the **IMDB** dataset.
 
 ---
+## 4_CIFAR-10  *[`link`](/4_CIFAR-10/ "4_CIFAR-10")*
+
+### IMDB with DNN
+- Some examples of implementing **Deep Neural Networks** on the **CIFAR-10** dataset.
+
+---
