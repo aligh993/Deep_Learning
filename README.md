@@ -43,3 +43,9 @@
 - Some examples of implementing **Deep Neural Networks** on the **MNIST** dataset.
 
 ---
+## 3_IMDB  *[`link`](/3_IMDB/ "3_IMDB")*
+
+### IMDB with DNN
+- Some examples of implementing **Deep Neural Networks** on the **IMDB** dataset.
+
+---
