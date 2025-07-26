@@ -1,13 +1,13 @@
 # Neural Networks and Deep Learning Projects
 
-> **_NOTE:_**  Click on the images to view the full-size.
+> **_NOTE:_** Click on the images to view them full-size.
 ---
 ## 1_Autoassociative Memory  *[`link`](/1_Autoassociative_Memory/ "1_Autoassociative_Memory")*
 
 ### autoAsMem
-- Implementation of an **Autoassociative Memory Network** on the numbers from 0 to 9 with/without **Noise** by using an **Excel** dataset.
+- Implementation of an **Autoassociative Memory Network** for recognizing numbers from 0 to 9, with or without **Noise**, using an **Excel** dataset.
 
-- None (Without any noise)
+- None (No noise)
 	
 [<img src="/1_Autoassociative_Memory/Output/pic_1_0.png" width="150"/>](/1_Autoassociative_Memory/Output/pic_1_0.png)
 [<img src="/1_Autoassociative_Memory/Output/pic_1_1.png" width="150"/>](/1_Autoassociative_Memory/Output/pic_1_1.png)
@@ -40,18 +40,18 @@
 ## 2_MNIST  *[`link`](/2_MNIST/ "2_MNIST")*
 
 ### MNIST with DNN
-- Some examples of implementing **Deep Neural Networks** on the **MNIST** dataset.
+- Examples of **Deep Neural Network** implementations on the **MNIST** dataset.
 
 ---
 ## 3_IMDB  *[`link`](/3_IMDB/ "3_IMDB")*
 
 ### IMDB with DNN
-- Some examples of implementing **Deep Neural Networks** on the **IMDB** dataset.
+- Examples of **Deep Neural Network** implementations on the **IMDB** dataset.
 
 ---
 ## 4_CIFAR-10  *[`link`](/4_CIFAR-10/ "4_CIFAR-10")*
 
 ### IMDB with DNN
-- Some examples of implementing **Deep Neural Networks** on the **CIFAR-10** dataset.
+- Examples of **Deep Neural Network** implementations on the **CIFAR-10** dataset.
 
 ---
